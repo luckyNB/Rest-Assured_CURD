@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.restassured.RestAssuredTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-27T11:19:37" hostname="FH400" time="3.386">
+  <properties/>
+  <testcase name="givenEmployeeId_OnDelete_ShouldReturnSuccessStatus" classname="com.restassured.RestAssuredTest" time="3.386"/>
+  <system-out><![CDATA[AT END[
+  {
+    "id": 2,
+    "name": "David",
+    "salary": 12000
+  },
+  {
+    "name": "Lara",
+    "salary": "8000",
+    "id": 3
+  },
+  {
+    "name": "Lisa Tamaki",
+    "salary": "5000",
+    "id": 4
+  },
+  {
+    "name": "Ram",
+    "salary": "50000",
+    "id": 1
+  },
+  {
+    "name": "Lisa",
+    "salary": "56000",
+    "id": 10
+  }
+]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

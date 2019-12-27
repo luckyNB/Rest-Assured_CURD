@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5beeb875-343f-40c0-ba88-53104ae09f45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VYpkf73EStBAlJjlyPgPEytsOM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.RestAssuredTest.givenEmployeeId_OnDelete_ShouldReturnSuccessStatus">
+    <configuration name="RestAssuredTest.givenEmployeeId_OnDelete_ShouldReturnSuccessStatus" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassured.RestAssuredTest.givenEmployeeId_OnDelete_ShouldReturnSuccessStatus&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RestAssuredTest.givenEmployee_OnPost_ShouldReturnAddedEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassured.RestAssuredTest.givenEmployee_OnPost_ShouldReturnAddedEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RestAssuredTest.givenEmployee_OnUpdate_ShouldReturnUpdatedEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassured.RestAssuredTest.givenEmployee_OnUpdate_ShouldReturnUpdatedEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RestAssuredTest.onCallingList_ShouldReturnEmployeeList" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.restassured.RestAssuredTest.onCallingList_ShouldReturnEmployeeList&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RestAssuredTest.givenEmployeeId_OnDelete_ShouldReturnSuccessStatus" />
+        <item itemvalue="Gradle.RestAssuredTest.givenEmployee_OnPost_ShouldReturnAddedEmployee" />
+        <item itemvalue="Gradle.RestAssuredTest.givenEmployee_OnUpdate_ShouldReturnUpdatedEmployee" />
+        <item itemvalue="Gradle.RestAssuredTest.onCallingList_ShouldReturnEmployeeList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5beeb875-343f-40c0-ba88-53104ae09f45" name="Default Changelist" comment="" />
+      <created>1577440026795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577440026795</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1115" height="49" key="GridCell.Tab.0.bottom" timestamp="1577445576225">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1115" height="49" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577445576225" />
+    <state width="1115" height="49" key="GridCell.Tab.0.center" timestamp="1577445576224">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1115" height="49" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1577445576224" />
+    <state width="1115" height="49" key="GridCell.Tab.0.left" timestamp="1577445576223">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1115" height="49" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1577445576223" />
+    <state width="1115" height="49" key="GridCell.Tab.0.right" timestamp="1577445576225">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1115" height="49" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1577445576225" />
+    <state width="1253" height="179" key="GridCell.Tab.1.bottom" timestamp="1577443126946">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1577443126946" />
+    <state width="1253" height="179" key="GridCell.Tab.1.center" timestamp="1577443126944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1577443126944" />
+    <state width="1253" height="179" key="GridCell.Tab.1.left" timestamp="1577443126944">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1577443126944" />
+    <state width="1253" height="179" key="GridCell.Tab.1.right" timestamp="1577443126945">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="179" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1577443126945" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577440278650">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1577440278650" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/RestAssuredTest.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
